@@ -1,0 +1,11 @@
+{
+  "org": "ansible-collections",
+  "repo": "community.grafana",
+  "versions": [
+    {
+      "commit": "d7ae4090f2da6b13d5462628b780376eb81ddffd",
+      "tag": "",
+      "parsed_at": "2026-11-07T17:08:31.311237+00:00"
+    }
+  ]
+}
