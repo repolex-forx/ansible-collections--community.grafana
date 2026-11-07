@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/ansible-collections/community.grafana/commit/d7ae4090f2da6b13d5462628b780376eb81ddffd",
       "git:hexsha": "d7ae4090f2da6b13d5462628b780376eb81ddffd",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-07T17:08:31.310746+00:00"
     },
     {
       "@id": "https://repolex.ai/r/ansible-collections/community.grafana/commit/a10b0b5650807e5a1ee0317dcd0e3ba83c141b95",
